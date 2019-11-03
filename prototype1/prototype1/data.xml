@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<catalog>
+    <event>
+        <name>Math 140</name>
+        <description>Study Session</description>
+        <id>3</id>
+    </event>
+    <calendarEvent>
+        <id2>3</id2>
+        <startTime>1200</startTime>
+        <endTime>2400</endTime>
+    </calendarEvent>
+</catalog>
